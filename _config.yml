@@ -1,31 +1,31 @@
 ## Site Meta ##
 # The title of the website.
-title: "Lens - Elastic Designs"
+title: "Lens - 孟想"
 # The description of the website
-description: "A Jekyll theme for photographers and photo bloggers."
+description: "A photo blog."
 # Keywords/tags for you site.
-keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
+keywords: "lens, photography, blog, photography-blog, photo-blog, 图片, 孟想"
 # Your copyright message.
-copyright: "Copyright &copy; 2017 - Elastic Designs."
+copyright: "Copyright &copy; 2018 - 孟想."
 
 ## Site Configurations ##
 # 1st heading of the site.
 header: "Lens"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: "孟想"
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "A photo blog."
 social:
   # Your Twitter username.
-  twitter_username: ""
+  twitter_username: "mlkey"
   # Your Facebook username.
-  facebook_username: ""
+  facebook_username: "mlkey"
   # Your Instagram username.
-  instagram_username: ""
+  instagram_username: "mlkey"
   # GitHub username.
-  github_username: "ElasticDesigns"
+  github_username: "mlkey"
   # Your email address.
-  email: ""
+  email: "mlkey@126.com"
 
 ## Gallery Configuration ##
 # If you modify this, also modify the `default.scope.path` key below.
